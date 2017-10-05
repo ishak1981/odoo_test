@@ -1,1 +1,1 @@
-bu bir testtir.asdf
+tamamen degisti
